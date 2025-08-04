@@ -1,7 +1,8 @@
 fastapi
 uvicorn
-pymupdf
-faiss-cpu
-sentence-transformers
 requests
-python-multipart
+python-dotenv
+PyMuPDF
+sentence-transformers
+faiss-cpu
+openai
